@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /404/
+Sitemap: https://sattamatkadp.github.io/sitemap.xml
